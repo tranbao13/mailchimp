@@ -31,4 +31,3 @@ Create a new Mailchimp account (free account). Using Mailchimp's RESTful API:
 
 ## Note:
 Remember to insert your API key in the global.php file
-Sample: https://ravenclawcoder.com/mailchimp/
