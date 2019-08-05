@@ -1,4 +1,4 @@
-# Mailchimp API 
+# Mailchimp API (GIT UPDATE)
 
 ## Requirements
 Create a new Mailchimp account (free account). Using Mailchimp's RESTful API:
